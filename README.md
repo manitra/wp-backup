@@ -15,4 +15,4 @@ The three parameters are mandatory :
 
 # Requirements
 
-- run as a `root` or any user that can connect to the local mysql database without password (I know, I know ..)
+- run as a user that can connect to the local mysql database without password (you can specify your mysql credential in ~/my.cnf)
